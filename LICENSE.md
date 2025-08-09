@@ -11,6 +11,7 @@ This project uses the following Rust crates:
 - password-hash = "0.5"
 - base64 = "0.22.1"
 - getrandom = { version = "0.2", features = ["js"] }
+- obfstr = "0.4.4"
 
 Each of these crates is licensed under either the MIT license or the Apache License 2.0, or both.
 
